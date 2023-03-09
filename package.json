@@ -1,0 +1,32 @@
+{
+  "name": "leaflet-marker-arc",
+  "version": "0.1.3",
+  "description": "Leaflet plugin to enable arc marker icons",
+  "private": false,
+  "license": "MIT",
+  "author": {
+    "name": "Fernando Jose Capeletto Neto",
+    "email": "i.am@fernando.engineer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fjcapeletto/Leaflet.ArcMarker.git"
+  },
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/leaflet": "*"
+  },
+  "keywords": [
+    "gis",
+    "map",
+    "leaflet",
+    "marker",
+    "arc",
+    "semicircle"
+  ]
+}
